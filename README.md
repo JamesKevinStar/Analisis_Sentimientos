@@ -1,4 +1,6 @@
 # AnalisisSentimientos
+Descripción:
+
 Implementación de 2 modelos de Inteligencia Artificial (MVS &amp; MLP) para clasificar tweets relacionados al Covid-19 en 5 diferentes sentimientos.
 
 Datos Académicos:
@@ -11,5 +13,5 @@ Docentes:
   - Gabriela Zuñiga Rojas - Docente Práctica
   
 Autores:
-  - Estrella Vilca, James Kevin - Estudiante - JamesKevinStar
+  - Estrella Vilca, James Kevin - Estudiante - @JamesKevinStar
   - Peña Luque Raísa Melina - Estudiante - 
