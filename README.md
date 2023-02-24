@@ -13,5 +13,5 @@ Docentes:
   - Gabriela Zuñiga Rojas - Docente Práctica
   
 Autores:
-  - Estrella Vilca, James Kevin - Estudiante - @JamesKevinStar
+  - Estrella Vilca, James Kevin - Estudiante - [JamesKevinStar](https://github.com/JamesKevinStar)
   - Peña Luque Raísa Melina - Estudiante - 
