@@ -8,6 +8,7 @@ Implementación de 2 modelos de Inteligencia Artificial (MVS &amp; MLP) para cla
 - [Datos](#datos)
 - [Metodología](#metodología)
 - [Resultados](#resultados)
+- [Conclusión](#conclusión)
 
 ## Datos 
 - El dataset utilizado contiene un registro de twitts del año 2020, los cuales están relacionados o hablan acerca del Covid.
