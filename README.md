@@ -51,4 +51,4 @@ Implementación de 2 modelos de Inteligencia Artificial (MVS &amp; MLP) para cla
 - Pero el algoritmo SVM no se alejó mucho de los resultados del otro algoritmo.
 
 ## Conclusión
--Aunque los algoritmos anteriores funcionaron de manera decente, creo que se debería escoger para este tipo de problemas una Red Neuronal Recurrente (RNN), puesto que estas están diseñadas para trabajar con palabras.
+Aunque los algoritmos anteriores funcionaron de manera decente, creo que se debería escoger para este tipo de problemas una Red Neuronal Recurrente (RNN), puesto que estas están diseñadas para trabajar con palabras.
