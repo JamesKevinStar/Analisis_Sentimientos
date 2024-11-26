@@ -38,13 +38,13 @@ Implementación de 2 modelos de Inteligencia Artificial (MVS &amp; MLP) para cla
   - Perceptrón Multi Capa (MLP)
   - Máquina de Vector de Soporte (SVM)
 
-### 5. Entrenamiento del MLP 
-- Se usaron los datos limpios para entrenar el algoritmo.
-- Se utilizaron gráficas para ver exactitud y perdida del algoritmo.
+### 5. Entrenamiento de los Modelos 
+- Se usaron los datos limpios para entrenar los algoritmos.
+- Se utilizaron gráficas para ver el accuracy y loss del algoritmo.
 
 ### 6. Evaluación de los Modelos
 - Se evaluó con las métricas de "accuracy", "precision", "recall" y "f1".
-- Las matrices de confusión para cada modelo dio resultados buenos.
+- Las matrices de confusión para cada modelo dio resultados buenos, sobre todo el del MLP.
 - Perceptrón Multi Capa:
 
 ![Matriz Confusión MLP](Imágenes/Matriz_MLP.png)
