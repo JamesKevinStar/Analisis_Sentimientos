@@ -45,11 +45,11 @@ Implementación de 2 modelos de Inteligencia Artificial (MVS &amp; MLP) para cla
 ### 6. Evaluación de los Modelos
 - Se evaluó con las métricas de "accuracy", "precision", "recall" y "f1".
 - Las matrices de confusión para cada modelo dio resultados buenos, sobre todo el del MLP.
-- Perceptrón Multi Capa:
+- Perceptrón Multi Capa (MLP):
 
 ![Matriz Confusión MLP](Imágenes/Matriz_MLP.png)
 
-- Máquina de Vector de Soporte
+- Máquina de Vector de Soporte (SVM):
 
 ![Matriz Confusión SVM](Imágenes/Matriz_SVM.png)
 
