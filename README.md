@@ -1,7 +1,7 @@
 # Análisis de Sentimientos
 
 ## Descripción:
-Este trabajo busca la implementación de 2 modelos para analizar los sentimientos en los tweets que hablan sobre el Covid-19, para luego poder clasificarlos en 5 clases; los modelos implementados son la Máquina de Vector de Soporte y el Preceptrón Multi Capa (SVM &amp; MLP).
+Este trabajo busca la implementación de 2 modelos para analizar los sentimientos en los tweets que hablan sobre el Covid-19 y poder clasificarlos en 5 clases, para luego poder ver cuál modelo dio mejores resultados para esta tarea; los modelos implementados son la Máquina de Vector de Soporte y el Preceptrón Multi Capa (SVM &amp; MLP).
 
 
 ## Tabla de Contenidos 
